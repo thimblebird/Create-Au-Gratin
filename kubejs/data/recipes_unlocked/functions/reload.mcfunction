@@ -1,0 +1,1 @@
+execute run scoreboard players set @a firstjoin 0

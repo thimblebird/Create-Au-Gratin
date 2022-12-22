@@ -1,0 +1,11 @@
+
+[clientprofiles]
+	#Enable the use of client profiles
+	enable = true
+	#Current active client profile
+	currentProfile = "vanilla+"
+	#Default client profile
+	defaultProfile = "vanilla+"
+	#Creates a default client profile on game start
+	createDefault = false
+

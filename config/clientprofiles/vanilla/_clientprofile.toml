@@ -1,0 +1,8 @@
+
+#Closest to vanilla we can get, visually.
+[clientprofile]
+	lockedFiles = []
+	credits = "thimblebird"
+	displayName = "Vanilla Profile"
+	readOnly = true
+

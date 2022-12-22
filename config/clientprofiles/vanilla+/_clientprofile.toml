@@ -1,0 +1,8 @@
+
+#The least visual clutter possible without hindering gameplay.
+[clientprofile]
+	lockedFiles = []
+	credits = "thimblebird"
+	displayName = "Vanilla+ Profile"
+	readOnly = true
+

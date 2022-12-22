@@ -1,0 +1,44 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 1, 2022, 7:58:26 PM
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+- hexerei:quicksilver_flowing (from hexerei-0.2.5.jar)
+- hexerei:quicksilver_fluid (from hexerei-0.2.5.jar)
+
+#create:bottomless/deny
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- hexerei:blood_flowing (from hexerei-0.2.5.jar)
+- hexerei:blood_fluid (from hexerei-0.2.5.jar)
+- hexerei:tallow_flowing (from hexerei-0.2.5.jar)
+- hexerei:tallow_fluid (from hexerei-0.2.5.jar)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.f.jar)
+- create:chocolate (from create-1.19.2-0.5.0.f.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.1.65-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.1.65-universal.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.f.jar)
+- create:tea (from create-1.19.2-0.5.0.f.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.f.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.f.jar)
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+- decorative_blocks:flowing_thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+
+#forge:honey
+- create:flowing_honey (from create-1.19.2-0.5.0.f.jar)
+- create:honey (from create-1.19.2-0.5.0.f.jar)
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava (from twilightforest-1.19.2-4.2.1468-universal.jar)
